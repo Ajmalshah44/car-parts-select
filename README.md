@@ -4,7 +4,7 @@
 
 ![alt text](screenshots/01.jpeg)
 
-## Choose the Damage Part 
+## Select the Damage Part 
 
 ![alt text](screenshots/02.jpeg)
 
