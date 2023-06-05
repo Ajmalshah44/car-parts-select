@@ -1,6 +1,5 @@
 // Description: Converting SVG => Canvas => Png ( Pure JS )
 // Author : Ajmalshah
-//Company : Walaa Insurance
 
 var makePNGOfSVG = function(){
   var imgWidth = 280;
