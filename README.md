@@ -1,3 +1,4 @@
 # car-parts-select
 
-screenshots/01.jpeg
+
+![alt text](screenshots/01.jpeg)
