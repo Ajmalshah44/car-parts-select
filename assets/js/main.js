@@ -1,7 +1,5 @@
 // Description: When you click CheckBox it will highlight SVG image ( Jquery JS )
 // Author : Ajmalshah
-//Company : Walaa Insurance
-
     $('#front').change(function(){
     	if ($(this).is(':checked')) {
 	    	$(".st11").css("fill", "red");
