@@ -1,13 +1,13 @@
 # car-parts-select
 
-*Landing Design
+## Landing Design
 
 ![alt text](screenshots/01.jpeg)
 
-*Choose the Damage Part 
+## Choose the Damage Part 
 
 ![alt text](screenshots/02.jpeg)
 
-*You can Preview the image separately and download
+## You can Preview the image separately and download
 
 ![alt text](screenshots/02.jpeg)
